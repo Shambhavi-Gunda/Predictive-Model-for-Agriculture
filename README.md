@@ -1,0 +1,2 @@
+ Smart Crop Selection Using Machine Learning
+ I developed a machine learning solution to help farmers select the best crop based on limited soil data. Given budget constraints, a farmer could measure only one of four key soil parameters: nitrogen, phosphorus, potassium, or pH. Recognizing this as a feature selection problem, I used ML algorithms to identify the most influential factor for accurate crop prediction. This project showcased my skills in data analysis, feature selection, and AI-driven decision-making in agriculture.
